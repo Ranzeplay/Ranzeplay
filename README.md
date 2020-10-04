@@ -42,6 +42,7 @@ I'm a Chinese high school student and an developer.
 
 [![OAHub](https://github-readme-stats.vercel.app/api/pin/?username=Ranzeplay&repo=OAHub)](https://github.com/Ranzeplay/OAHub)
 [![MCGit](https://github-readme-stats.vercel.app/api/pin/?username=Ranzeplay&repo=MCGit)](https://github.com/Ranzeplay/MCGit)
+[![SimuCalc](https://github-readme-stats.vercel.app/api/pin/?username=Ranzeplay&repo=SimuCalc)](https://github.com/Ranzeplay/SimuCalc)
 
 ### At Last
 I ❤ **Microsoft** and **Linux**
