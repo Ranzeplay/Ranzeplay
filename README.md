@@ -29,9 +29,9 @@ Let me give you an introduction!
 
 I'm a Chinese high school student and an developer.
 
-**I’m currently working on** my *Programming Language*, called *The Carbon Programming Language(TCPL)*
+**I’m currently working on** my *Programming Language*, called [*The Carbon Programming Language(TCPL)*](https://github.com/StaplerIO/carbon-lang)
 
-**I'm looking for help with** *great programming thoughts*.
+**I'm looking for help with** *compiler design* and *WPF development*.
 
 **I’m looking to collaborate on** *Minecraft Server Building*, *New Software Project*
 
