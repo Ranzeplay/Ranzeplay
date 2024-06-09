@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeb Feng</h1>
-<h3 align="center">A senior high & hobby developer</h3>
+<h3 align="center">A senior high graduate & hobby developer</h3>
 
 <p align="left"> <a href="https://twitter.com/ranzeplay" target="blank"><img src="https://img.shields.io/twitter/follow/ranzeplay?logo=twitter&style=for-the-badge" alt="ranzeplay" /></a> </p>
 
