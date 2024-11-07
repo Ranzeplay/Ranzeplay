@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ranzeplay@outlook.com**
 
-- ⚡ Fun fact **Entering college this September**
+- ⚡ Fun fact **My MBTI is INFJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
