@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ranzeplay" target="blank"><img src="https://img.shields.io/twitter/follow/ranzeplay?logo=twitter&style=for-the-badge" alt="ranzeplay" /></a> </p>
 
-- 🔭 I’m currently working on [PhiJudge](https://github.com/Ranzeplay/PhiJudge)
+- 🔭 I’m currently working on [SaySomething](https://github.com/Ranzeplay/saysth)
 
-- 🌱 I’m currently learning **Next.js, Qwik, Supabase**
+- 🌱 I’m currently learning **Compiler, Automata Theory**
 
 - 👯 I’m looking to collaborate on [hNetwork](https://hnetwork.ranzeplay.space/)
 
