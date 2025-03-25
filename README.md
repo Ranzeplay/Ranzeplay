@@ -25,7 +25,9 @@
 
 - 📫 How to reach me **ranzeplay@outlook.com**
 
-- ⚡ Fun fact **My MBTI is INFJ**
+- ⚡ MBTI: **INFJ**
+
+- 💾 Fun fact: **I have an old account created in 2017, but deleted in an argument with my parents :(**
 
 ###
 
