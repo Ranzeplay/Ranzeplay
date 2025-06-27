@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [hNetwork](https://hnetwork.ranzeplay.space/)
 
-- 🤝 I’m looking for help with **The Arc Programming Language**
+- 🤝 I’m looking for help with [**The Arc Programming Language**](https://github.com/Ranzeplay/arc)
 
 - 👨‍💻 All of my projects are available at [https://ranzeplay.space/projects](https://ranzeplay.space/projects)
 
