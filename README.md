@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [SaySomething](https://github.com/Ranzeplay/saysth)
 
-- 🌱 I’m currently learning **Compiler, Automata Theory**
+- 🌱 I’m currently learning **Compiler, JIT and garbage collection**
 
 - 👯 I’m looking to collaborate on [hNetwork](https://hnetwork.ranzeplay.space/)
 
